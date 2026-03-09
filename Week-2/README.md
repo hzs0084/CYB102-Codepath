@@ -6,6 +6,8 @@ This unit is all about endpoint monitoring, or in other words - ways to monitor 
 
 - [Link to Slides](https://docs.google.com/presentation/d/12tzlvr-z7V0XHhY0khD_5WPxcaRI-MbCcZQzMDUgAzA)
 
-- [Zoom Recording](https://apply.codepath.org/session/eeb1fdf184fa9f9efbf5211a2ebb3a1c/?location=8430)
+- [Zoom Recording](https://drive.google.com/drive/folders/1U_EQOtFn0JtKKQVuZD48udAIOCKSalNj)
 
-- 
+
+### LAB 2 - Overview and Walkthrough
+
